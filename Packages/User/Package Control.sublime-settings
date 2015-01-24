@@ -9,8 +9,21 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"Colorsublime",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"Laravel 4 Facades",
+		"Laravel Blade Highlighter",
 		"Package Control",
-		"Theme - Fox"
+		"PHP Companion",
+		"PhpDoc",
+		"PHPIntel",
+		"PhpNamespace",
+		"SublimeLinter-annotations",
+		"Theme - Fox",
+		"Theme - Spacegray"
 	]
 }
