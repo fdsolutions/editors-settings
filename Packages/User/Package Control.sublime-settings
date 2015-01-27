@@ -10,8 +10,11 @@
 	"installed_packages":
 	[
 		"3024 Color Scheme",
+		"Autoprefixer",
+		"ColorPicker",
 		"Colorsublime",
 		"Dayle Rees Color Schemes",
+		"Diffy",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emmet Style Reflector",
@@ -24,6 +27,7 @@
 		"PhpNamespace",
 		"SublimeLinter-annotations",
 		"Theme - Fox",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Vagrant"
 	]
 }
