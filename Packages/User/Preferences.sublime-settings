@@ -3,7 +3,8 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"theme": "Fox.sublime-theme"
 }
