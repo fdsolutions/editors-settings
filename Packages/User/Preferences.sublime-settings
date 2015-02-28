@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/1337.tmTheme",
-	"font_size": 13,
+	"color_scheme": "Packages/Colorsublime - Themes/GitHubCleanWhite.tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Fox.sublime-theme"
 }

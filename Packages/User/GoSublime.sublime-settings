@@ -1,0 +1,10 @@
+{
+	"on_save": [{
+	    "cmd": "gs9o_open", "args": {
+	    "run": ["sh", 
+	        "go build . errors && go test -i && go test && go vet && golint ."],
+	    "focus_view": false
+	}}],
+	"autocomplete_closures": true,
+	"complete_builtins": true,
+}
