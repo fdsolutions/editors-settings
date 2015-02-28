@@ -1,4 +1,4 @@
 [
-	{ "keys": ["super+k", "super+d"], "command": "diffy" },
-	{ "keys": ["super+k", "super+c"], "command": "diffy", "args": {"action": "clear"} }
+	{ "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} },
 ]
