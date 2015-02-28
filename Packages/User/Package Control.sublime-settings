@@ -2,13 +2,9 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"3024 Color Scheme",
 		"Autoprefixer",
 		"ColorPicker",
@@ -18,6 +14,7 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emmet Style Reflector",
+		"Github Color Theme",
 		"Laravel 4 Facades",
 		"Laravel Blade Highlighter",
 		"Package Control",
@@ -25,6 +22,8 @@
 		"PhpDoc",
 		"PHPIntel",
 		"PhpNamespace",
+		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeLinter-annotations",
 		"Theme - Fox",
 		"Theme - Spacegray",
