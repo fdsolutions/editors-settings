@@ -1,10 +1,22 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/GitHubCleanWhite.tmTheme",
-	"font_size": 12,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Colorsublime - Themes/Github.tmTheme",
+	"font_face": "monaco",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12.3,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Markdown"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
 	"theme": "Fox.sublime-theme"
 }

@@ -2,7 +2,8 @@
 	"on_save": [{
 	    "cmd": "gs9o_open", "args": {
 	    "run": ["sh", 
-	        "go build . errors && go test -i && go test && go vet && golint ."],
+	        "go vet && golint ."],
+	        //"go build . errors && ginkgo test -i --noColor && ginkgo test --noColor && go vet && golint ."],
 	    "focus_view": false
 	}}],
 	"autocomplete_closures": true,
