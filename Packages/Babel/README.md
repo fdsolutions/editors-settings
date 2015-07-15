@@ -20,7 +20,7 @@ To set it as the default syntax for a particular extension:
 
 #### Advanced usage
 
-It possible to set `Babel` as the _only_ JavaScript package by disabling the stock one. To do so, add `"ignored_packages": ["JavaScript"]` to your `Preferences.sublime-settings`. The benefits include:
+It's possible to set `Babel` as the _only_ JavaScript package by disabling the stock one. To do so, add `"ignored_packages": ["JavaScript"]` to your `Preferences.sublime-settings`. The benefits include:
   * extension-less node scripts will automatically be recognized as `JavaScript (Babel)`,
   * and reduced clutter in the syntax menu.
 
@@ -55,6 +55,10 @@ Find them separately at [babel/babel-sublime-snippets](https://github.com/babel/
 [![](https://raw.githubusercontent.com/voronianski/babel-sublime/master/screenshots/oceanic-next.png)](https://github.com/voronianski/oceanic-next-theme)
 
 Sublime Text Color Scheme which is ready for JavaScript's new features and babel-sublime package.
+
+#### [Zeus Color Scheme](https://github.com/zaynali53/Zeus-Theme)
+
+![zeus-color-scheme](https://raw.githubusercontent.com/zaynali53/Zeus-Theme/master/Zeus-Color-Scheme.PNG)
 
 ## About
 
